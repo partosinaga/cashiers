@@ -14,4 +14,17 @@ clone this repo for trial, with information below:
 - After create database, execute 'cashiers.sql' file to create database structure
 - Find API Postman Collection on: https://documenter.getpostman.com/view/7090108/Tzz7NxNt
 
-made with ❤️ by parto sinaga. https://partosinaga.github.io
+
+
+### Reach Me Up On:
+- https://partosinaga.github.io
+- https://partosinaga.medium.com
+- https://www.linkedin.com/in/parto-sinaga-608b3b112
+
+
+
+
+
+
+
+made with ❤️ by parto sinaga.
